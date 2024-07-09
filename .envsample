@@ -1,0 +1,4 @@
+MONGO_DB_URI=<Your mongoDB url>
+PORT=6000
+CORS_ORIGIN=*
+EXPRESS_SESSION_SECRET=<your session secret>
